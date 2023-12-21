@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   description: |
-    &#x3C;svg&#x3E;&#x3C;/p&#x3E;&#x3C;style&#x3E;&#x3C;a id=&#x22;&#x3C;/style&#x3E;&#x3C;img src=1 onerror=alert(1)&#x3E;&#x22;&#x3E;
+    <a src="%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A%3Aconfirm(XSS)">
   version: "1.0.6"
   title: "Swagger Petstore"
   termsOfService: "http://swagger.io/terms/"
