@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
+    <math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;">
   version: "1.0.6"
   title: "Swagger Petstore"
   termsOfService: "http://swagger.io/terms/"
