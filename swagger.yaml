@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   description: |
-    <a src="%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A%3Aconfirm(XSS)">
+    <STYLE>.classname{background-image:url("javascript:alert(XSS)");}</STYLE>
   version: "1.0.6"
   title: "Swagger Petstore"
   termsOfService: "http://swagger.io/terms/"
